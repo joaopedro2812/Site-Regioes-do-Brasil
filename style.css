@@ -66,6 +66,15 @@ body img {
 .nordeste-regiao{
     display: flex;
 }
+
 .centro-oeste-regiao{
+    display: flex;
+}
+
+.sudeste-regiao{
+    display: flex;
+}
+
+.sul-regiao{
     display: flex;
 }
